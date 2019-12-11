@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-stored-in-securecrt-client.html</loc>
+    
+    <lastmod>2019-12-11T16:23:39.049Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://payloads.cn/2019/1211/cobaltstrike-and-metasploit-combat-linkage.html</loc>
     
     <lastmod>2019-12-11T02:01:37.783Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>https://payloads.cn/2019/1205/shfit-image-hijacks-backdoor-new-gameplay.html</loc>
     
     <lastmod>2019-12-08T09:27:34.762Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-stored-in-securecrt-client.html</loc>
-    
-    <lastmod>2019-12-05T15:07:28.643Z</lastmod>
     
   </url>
   
