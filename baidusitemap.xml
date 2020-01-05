@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://payloads.cn/2020/0105/intranet-penetration-in-actual-combat.html</loc>
+    <lastmod>2020-01-05</lastmod>
+  </url>  <url>
+    <loc>https://payloads.cn/2019/1204/frp-intranet-penetration-combat.html</loc>
+    <lastmod>2020-01-02</lastmod>
+  </url>  <url>
     <loc>https://payloads.cn/2019/1213/cobaltstrike-advancedbatch-launch.html</loc>
     <lastmod>2019-12-12</lastmod>
   </url>  <url>
@@ -17,9 +23,6 @@
     <lastmod>2019-12-12</lastmod>
   </url>  <url>
     <loc>https://payloads.cn/2019/1211/cobaltstrike-and-metasploit-combat-linkage.html</loc>
-    <lastmod>2019-12-12</lastmod>
-  </url>  <url>
-    <loc>https://payloads.cn/2019/1204/frp-intranet-penetration-combat.html</loc>
     <lastmod>2019-12-12</lastmod>
   </url>  <url>
     <loc>https://payloads.cn/2019/1209/basic-use-of-office-macros.html</loc>
