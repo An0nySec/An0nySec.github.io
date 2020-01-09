@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://payloads.cn/2020/0109/ssh-encrypted-tunnel-port-forwarding.html</loc>
+    <lastmod>2020-01-09</lastmod>
+  </url>  <url>
+    <loc>https://payloads.cn/2019/1205/shfit-image-hijacks-backdoor-new-gameplay.html</loc>
+    <lastmod>2020-01-09</lastmod>
+  </url>  <url>
     <loc>https://payloads.cn/2020/0105/intranet-penetration-in-actual-combat.html</loc>
     <lastmod>2020-01-05</lastmod>
   </url>  <url>
@@ -8,9 +14,6 @@
     <lastmod>2020-01-02</lastmod>
   </url>  <url>
     <loc>https://payloads.cn/2019/1213/cobaltstrike-advancedbatch-launch.html</loc>
-    <lastmod>2019-12-12</lastmod>
-  </url>  <url>
-    <loc>https://payloads.cn/2019/1205/shfit-image-hijacks-backdoor-new-gameplay.html</loc>
     <lastmod>2019-12-12</lastmod>
   </url>  <url>
     <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-stored-in-securecrt-client.html</loc>
