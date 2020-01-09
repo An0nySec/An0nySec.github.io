@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://payloads.cn/about/index.html</loc>
+    
+    <lastmod>2020-01-09T05:48:19.639Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://payloads.cn/2020/0109/ssh-encrypted-tunnel-port-forwarding.html</loc>
     
     <lastmod>2020-01-09T05:43:58.491Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://payloads.cn/2019/1205/shfit-image-hijacks-backdoor-new-gameplay.html</loc>
     
     <lastmod>2020-01-09T05:36:48.535Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/about/index.html</loc>
-    
-    <lastmod>2020-01-08T14:26:33.801Z</lastmod>
     
   </url>
   
