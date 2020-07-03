@@ -2,21 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://payloads.cn/2020/0220/creating-a-customized-metasploitlesson-1.html</loc>
+    <loc>https://payloads.cn/2020/0328/.html</loc>
     
-    <lastmod>2020-07-03T16:43:44.998Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0105/how-to-penetrate-the-intranet-in-actual-combat.html</loc>
-    
-    <lastmod>2020-02-05T16:43:03.979Z</lastmod>
+    <lastmod>2020-07-03T17:00:06.657Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://payloads.cn/2020/0109/ssh-encrypted-tunnel-port-forwarding.html</loc>
+    <loc>https://payloads.cn/2020/0324/.html</loc>
+    
+    <lastmod>2020-07-03T16:54:41.834Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0302/.html</loc>
+    
+    <lastmod>2020-07-03T16:53:06.857Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0228/.html</loc>
+    
+    <lastmod>2020-07-03T16:50:20.570Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0220/.html</loc>
+    
+    <lastmod>2020-07-03T16:49:18.437Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2019/1211/.html</loc>
+    
+    <lastmod>2020-07-03T16:45:26.105Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0105/.html</loc>
+    
+    <lastmod>2020-07-03T16:45:26.010Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2019/1204/.html</loc>
+    
+    <lastmod>2020-07-03T16:45:26.007Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2019/1213/.html</loc>
+    
+    <lastmod>2020-07-03T16:45:26.006Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2019/1204/.html</loc>
+    
+    <lastmod>2020-07-03T16:45:25.983Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2019/1204/.html</loc>
+    
+    <lastmod>2020-07-03T16:45:25.983Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2019/1209/.html</loc>
+    
+    <lastmod>2020-07-03T16:45:25.957Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0109/.html</loc>
     
     <lastmod>2020-01-13T08:43:01.574Z</lastmod>
     
@@ -30,58 +100,16 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/2019/1205/shfit-image-hijacks-backdoor-new-gameplay.html</loc>
+    <loc>https://payloads.cn/2019/1205/.html</loc>
     
     <lastmod>2020-01-09T05:36:48.535Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://payloads.cn/2019/1204/frp-intranet-penetration-actual-combat.html</loc>
-    
-    <lastmod>2020-01-02T14:12:37.560Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2019/1213/cobaltstrike-advanced-chapterbatch-launch.html</loc>
-    
-    <lastmod>2019-12-12T18:07:51.946Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-stored-in-securecrt-client.html</loc>
+    <loc>https://payloads.cn/2019/1204/.html</loc>
     
     <lastmod>2019-12-12T12:42:06.368Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-winscp-client.html</loc>
-    
-    <lastmod>2019-12-12T12:41:59.732Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2019/1204/cobaltstrike-basic-function-and-use.html</loc>
-    
-    <lastmod>2019-12-12T12:41:53.088Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2019/1211/cobaltstrike-and-metasploit-linkage.html</loc>
-    
-    <lastmod>2019-12-12T12:41:44.818Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2019/1209/basic-use-of-office-macro.html</loc>
-    
-    <lastmod>2019-12-12T12:41:25.275Z</lastmod>
     
   </url>
   
