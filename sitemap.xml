@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://payloads.cn/2020/0220/creating-a-customized-metasploitlesson-1.html</loc>
+    
+    <lastmod>2020-07-03T16:43:44.998Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0105/how-to-penetrate-the-intranet-in-actual-combat.html</loc>
+    
+    <lastmod>2020-02-05T16:43:03.979Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://payloads.cn/2020/0109/ssh-encrypted-tunnel-port-forwarding.html</loc>
     
-    <lastmod>2020-01-13T07:15:30.776Z</lastmod>
+    <lastmod>2020-01-13T08:43:01.574Z</lastmod>
     
   </url>
   
@@ -23,21 +37,14 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/2020/0105/intranet-penetration-in-actual-combat.html</loc>
-    
-    <lastmod>2020-01-05T15:03:33.708Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2019/1204/frp-intranet-penetration-combat.html</loc>
+    <loc>https://payloads.cn/2019/1204/frp-intranet-penetration-actual-combat.html</loc>
     
     <lastmod>2020-01-02T14:12:37.560Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://payloads.cn/2019/1213/cobaltstrike-advancedbatch-launch.html</loc>
+    <loc>https://payloads.cn/2019/1213/cobaltstrike-advanced-chapterbatch-launch.html</loc>
     
     <lastmod>2019-12-12T18:07:51.946Z</lastmod>
     
@@ -51,28 +58,28 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/2019/1204/decrypt-password-hash-saved-in-winscp-client.html</loc>
+    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-winscp-client.html</loc>
     
     <lastmod>2019-12-12T12:41:59.732Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://payloads.cn/2019/1204/cobaltstrike-basic-functions-and-use.html</loc>
+    <loc>https://payloads.cn/2019/1204/cobaltstrike-basic-function-and-use.html</loc>
     
     <lastmod>2019-12-12T12:41:53.088Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://payloads.cn/2019/1211/cobaltstrike-and-metasploit-combat-linkage.html</loc>
+    <loc>https://payloads.cn/2019/1211/cobaltstrike-and-metasploit-linkage.html</loc>
     
     <lastmod>2019-12-12T12:41:44.818Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://payloads.cn/2019/1209/basic-use-of-office-macros.html</loc>
+    <loc>https://payloads.cn/2019/1209/basic-use-of-office-macro.html</loc>
     
     <lastmod>2019-12-12T12:41:25.275Z</lastmod>
     
