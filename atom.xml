@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://payloads.cn/"/>
-  <updated>2020-07-03T17:10:52.087Z</updated>
+  <updated>2020-07-05T13:40:33.039Z</updated>
   <id>https://payloads.cn/</id>
   
   <author>
@@ -17,17 +17,17 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>打造定制化的Metasploit-第五课</title>
-    <link href="https://payloads.cn/2020/0328/create-a-customized-metasploitlesson-5.html"/>
-    <id>https://payloads.cn/2020/0328/create-a-customized-metasploitlesson-5.html</id>
+    <title>打造定制化的Metasploit—克隆用户</title>
+    <link href="https://payloads.cn/2020/0328/create-customized-metasploitclone-users.html"/>
+    <id>https://payloads.cn/2020/0328/create-customized-metasploitclone-users.html</id>
     <published>2020-03-27T16:56:12.000Z</published>
-    <updated>2020-07-03T17:10:52.087Z</updated>
+    <updated>2020-07-05T13:40:33.039Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sat Jul 04 2020 01:15:43 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
+        &lt;!-- build time:Sun Jul 05 2020 21:42:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
@@ -41,17 +41,17 @@
   </entry>
   
   <entry>
-    <title>打造定制化的Metasploit-第四课</title>
-    <link href="https://payloads.cn/2020/0324/creating-a-customized-metasploitlesson-4.html"/>
-    <id>https://payloads.cn/2020/0324/creating-a-customized-metasploitlesson-4.html</id>
+    <title>打造定制化的Metasploit—MSSQL重构</title>
+    <link href="https://payloads.cn/2020/0324/create-customized-metasploit%E2%80%94mssql-reconstruction.html"/>
+    <id>https://payloads.cn/2020/0324/create-customized-metasploit%E2%80%94mssql-reconstruction.html</id>
     <published>2020-03-24T11:05:08.000Z</published>
-    <updated>2020-07-03T17:10:52.124Z</updated>
+    <updated>2020-07-05T13:40:09.240Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sat Jul 04 2020 01:15:43 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
+        &lt;!-- build time:Sun Jul 05 2020 21:42:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
@@ -65,17 +65,17 @@
   </entry>
   
   <entry>
-    <title>打造定制化的Metasploit-第三课</title>
-    <link href="https://payloads.cn/2020/0302/create-a-customized-metasploitlesson-3.html"/>
-    <id>https://payloads.cn/2020/0302/create-a-customized-metasploitlesson-3.html</id>
+    <title>打造定制化的Metasploit—分析HTTP模块</title>
+    <link href="https://payloads.cn/2020/0302/create-customized-metasploit%E2%80%94analyze-http-module.html"/>
+    <id>https://payloads.cn/2020/0302/create-customized-metasploit%E2%80%94analyze-http-module.html</id>
     <published>2020-03-02T01:11:13.000Z</published>
-    <updated>2020-07-03T17:10:52.123Z</updated>
+    <updated>2020-07-05T13:39:50.067Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sat Jul 04 2020 01:15:43 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
+        &lt;!-- build time:Sun Jul 05 2020 21:42:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
@@ -89,17 +89,17 @@
   </entry>
   
   <entry>
-    <title>打造定制化的Metasploit-第二课</title>
-    <link href="https://payloads.cn/2020/0228/creating-a-customized-metasploitlesson-2.html"/>
-    <id>https://payloads.cn/2020/0228/creating-a-customized-metasploitlesson-2.html</id>
+    <title>打造定制化的Metasploit—体系框架</title>
+    <link href="https://payloads.cn/2020/0228/create-customized-metasploit%E2%80%94system-framework.html"/>
+    <id>https://payloads.cn/2020/0228/create-customized-metasploit%E2%80%94system-framework.html</id>
     <published>2020-02-28T11:10:05.000Z</published>
-    <updated>2020-07-03T17:10:52.124Z</updated>
+    <updated>2020-07-05T13:39:25.635Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sat Jul 04 2020 01:15:43 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
+        &lt;!-- build time:Sun Jul 05 2020 21:42:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
@@ -113,17 +113,17 @@
   </entry>
   
   <entry>
-    <title>打造定制化的Metasploit-第一课</title>
-    <link href="https://payloads.cn/2020/0220/creating-a-customized-metasploitlesson-1.html"/>
-    <id>https://payloads.cn/2020/0220/creating-a-customized-metasploitlesson-1.html</id>
+    <title>打造定制化的Metasploit—认识Ruby</title>
+    <link href="https://payloads.cn/2020/0220/build-customized-metasploitmeet-ruby.html"/>
+    <id>https://payloads.cn/2020/0220/build-customized-metasploitmeet-ruby.html</id>
     <published>2020-02-20T07:09:30.000Z</published>
-    <updated>2020-07-03T16:49:18.437Z</updated>
+    <updated>2020-07-05T13:39:03.503Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sat Jul 04 2020 01:15:43 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
+        &lt;!-- build time:Sun Jul 05 2020 21:42:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
@@ -147,7 +147,7 @@
     
       
       
-        &lt;!-- build time:Sat Jul 04 2020 01:15:42 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
+        &lt;!-- build time:Sun Jul 05 2020 21:42:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
@@ -171,7 +171,7 @@
     
       
       
-        &lt;!-- build time:Sat Jul 04 2020 01:15:42 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
+        &lt;!-- build time:Sun Jul 05 2020 21:42:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
@@ -195,7 +195,7 @@
     
       
       
-        &lt;!-- build time:Sat Jul 04 2020 01:15:42 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
+        &lt;!-- build time:Sun Jul 05 2020 21:42:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
@@ -219,7 +219,7 @@
     
       
       
-        &lt;!-- build time:Sat Jul 04 2020 01:15:43 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
+        &lt;!-- build time:Sun Jul 05 2020 21:42:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
@@ -243,7 +243,7 @@
     
       
       
-        &lt;!-- build time:Sat Jul 04 2020 01:15:42 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
+        &lt;!-- build time:Sun Jul 05 2020 21:42:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
@@ -267,7 +267,7 @@
     
       
       
-        &lt;!-- build time:Sat Jul 04 2020 01:15:43 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
+        &lt;!-- build time:Sun Jul 05 2020 21:42:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
@@ -291,7 +291,7 @@
     
       
       
-        &lt;!-- build time:Sat Jul 04 2020 01:15:43 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
+        &lt;!-- build time:Sun Jul 05 2020 21:42:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
@@ -315,7 +315,7 @@
     
       
       
-        &lt;!-- build time:Sat Jul 04 2020 01:15:43 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
+        &lt;!-- build time:Sun Jul 05 2020 21:42:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
@@ -339,7 +339,7 @@
     
       
       
-        &lt;!-- build time:Sat Jul 04 2020 01:15:43 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
+        &lt;!-- build time:Sun Jul 05 2020 21:42:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
@@ -363,7 +363,7 @@
     
       
       
-        &lt;!-- build time:Sat Jul 04 2020 01:15:43 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
+        &lt;!-- build time:Sun Jul 05 2020 21:42:23 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;&lt;p&gt;——AnonySec&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
