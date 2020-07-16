@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://payloads.cn/2020/0706/create-customized-metasploit%E2%80%94security-log-analysis.html</loc>
+    
+    <lastmod>2020-07-16T09:24:29.524Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0703/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html</loc>
+    
+    <lastmod>2020-07-16T09:20:36.028Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0703/create-customized-metasploitredis-unauthorized.html</loc>
+    
+    <lastmod>2020-07-16T09:19:42.495Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://payloads.cn/2020/0220/build-customized-metasploitmeet-ruby.html</loc>
     
-    <lastmod>2020-07-05T13:44:27.470Z</lastmod>
+    <lastmod>2020-07-05T13:44:37.604Z</lastmod>
     
   </url>
   
