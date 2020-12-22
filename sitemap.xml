@@ -2,150 +2,252 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://payloads.cn/2020/0703/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</loc>
+    <loc>https://payloads.cn/2020/0706/create-customized-metasploitsecurity-log-analysis.html</loc>
     
-    <lastmod>2020-07-16T09:24:57.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0703/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html</loc>
-    
-    <lastmod>2020-07-16T09:24:57.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0706/create-customized-metasploit%E2%80%94security-log-analysis.html</loc>
-    
-    <lastmod>2020-07-16T09:24:57.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0220/create-customized-metasploit%E2%80%94understand-ruby.html</loc>
-    
-    <lastmod>2020-07-05T13:44:37.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0324/create-customized-metasploit%E2%80%94mssql-refactoring.html</loc>
-    
-    <lastmod>2020-07-05T13:42:23.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0228/create-customized-metasploit%E2%80%94system-framework.html</loc>
-    
-    <lastmod>2020-07-05T13:42:23.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0328/create-customized-metasploitclone-users.html</loc>
-    
-    <lastmod>2020-07-05T13:42:23.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0302/create-customized-metasploit%E2%80%94analyze-http-module.html</loc>
-    
-    <lastmod>2020-07-05T13:42:23.000Z</lastmod>
+    <lastmod>2020-12-22</lastmod>
     
   </url>
   
   <url>
     <loc>https://payloads.cn/2019/1211/cobaltstrike-and-metasploit-actual-combat-linkage.html</loc>
     
-    <lastmod>2020-07-03T16:45:26.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2019/1213/cobaltstrike-advanced-chapterbatch-online.html</loc>
-    
-    <lastmod>2020-07-03T16:45:26.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0105/how-to-penetrate-the-intranet-in-actual-combat.html</loc>
-    
-    <lastmod>2020-07-03T16:45:26.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-winscp-client.html</loc>
-    
-    <lastmod>2020-07-03T16:45:26.000Z</lastmod>
+    <lastmod>2020-08-05</lastmod>
     
   </url>
   
   <url>
     <loc>https://payloads.cn/2019/1204/basic-functions-and-usage-of-cobaltstrike.html</loc>
     
-    <lastmod>2020-07-03T16:45:25.000Z</lastmod>
+    <lastmod>2020-08-05</lastmod>
     
   </url>
   
   <url>
-    <loc>https://payloads.cn/2019/1204/frp-intranet-penetration-actual-combat.html</loc>
+    <loc>https://payloads.cn/2019/1213/cobaltstrike-advanced-chapterbatch-online.html</loc>
     
-    <lastmod>2020-07-03T16:45:25.000Z</lastmod>
+    <lastmod>2020-08-05</lastmod>
     
   </url>
   
   <url>
     <loc>https://payloads.cn/2019/1209/basic-use-of-office-macros.html</loc>
     
-    <lastmod>2020-07-03T16:45:25.000Z</lastmod>
+    <lastmod>2020-08-05</lastmod>
     
   </url>
   
   <url>
     <loc>https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html</loc>
     
-    <lastmod>2020-01-13T08:43:01.000Z</lastmod>
+    <lastmod>2020-08-05</lastmod>
     
   </url>
   
   <url>
-    <loc>https://payloads.cn/about/index.html</loc>
+    <loc>https://payloads.cn/2020/0324/create-customized-metasploit%E2%80%94mssql-refactoring.html</loc>
     
-    <lastmod>2020-01-09T05:48:19.000Z</lastmod>
+    <lastmod>2020-08-05</lastmod>
     
   </url>
   
   <url>
-    <loc>https://payloads.cn/2019/1205/shfit-image-hijacks-backdoor-new-gameplay.html</loc>
+    <loc>https://payloads.cn/2020/0703/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</loc>
     
-    <lastmod>2020-01-09T05:36:48.000Z</lastmod>
+    <lastmod>2020-08-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0220/create-customized-metasploit%E2%80%94understand-ruby.html</loc>
+    
+    <lastmod>2020-08-05</lastmod>
     
   </url>
   
   <url>
     <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-securecrt-client.html</loc>
     
-    <lastmod>2019-12-12T12:42:06.000Z</lastmod>
+    <lastmod>2020-08-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0703/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html</loc>
+    
+    <lastmod>2020-07-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0228/create-customized-metasploit%E2%80%94system-framework.html</loc>
+    
+    <lastmod>2020-07-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0328/create-customized-metasploitclone-users.html</loc>
+    
+    <lastmod>2020-07-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0302/create-customized-metasploit%E2%80%94analyze-http-module.html</loc>
+    
+    <lastmod>2020-07-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0105/how-to-penetrate-the-intranet-in-actual-combat.html</loc>
+    
+    <lastmod>2020-07-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-winscp-client.html</loc>
+    
+    <lastmod>2020-07-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2019/1204/frp-intranet-penetration-actual-combat.html</loc>
+    
+    <lastmod>2020-07-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/about/index.html</loc>
+    
+    <lastmod>2020-01-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2019/1205/shfit-image-hijacks-backdoor-new-gameplay.html</loc>
+    
+    <lastmod>2020-01-09</lastmod>
     
   </url>
   
   <url>
     <loc>https://payloads.cn/tags/index.html</loc>
     
-    <lastmod>2019-12-04T13:50:11.000Z</lastmod>
+    <lastmod>2019-12-04</lastmod>
     
   </url>
   
   <url>
     <loc>https://payloads.cn/categories/index.html</loc>
     
-    <lastmod>2019-12-04T13:50:02.000Z</lastmod>
+    <lastmod>2019-12-04</lastmod>
     
+  </url>
+  
+
+  <url>
+    <loc>https://payloads.cn/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://payloads.cn/tags/CobaltStrike/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/tags/Office/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/tags/Windows%E5%90%8E%E9%97%A8/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/tags/Metasploit/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/tags/%E8%A7%A3%E5%AF%86%E5%AE%A2%E6%88%B7%E7%AB%AF/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://payloads.cn/categories/Tools/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/categories/%E9%92%93%E9%B1%BC/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/categories/SSH%E9%9A%A7%E9%81%93/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/categories/%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/categories/%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/categories/%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/categories/%E5%86%85%E7%BD%91%E5%AF%86%E7%A0%81%E6%90%9C%E9%9B%86/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   
 </urlset>
