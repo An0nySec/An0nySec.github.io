@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://payloads.cn/2020/0703/create-customized-metasploitsecurity-log-analysis.html</loc>
+    
+    <lastmod>2021-01-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0531/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html</loc>
+    
+    <lastmod>2021-01-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0331/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</loc>
+    
+    <lastmod>2021-01-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0327/create-customized-metasploitclone-users.html</loc>
+    
+    <lastmod>2021-01-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0325/create-customized-metasploit%E2%80%94mssql-refactoring.html</loc>
+    
+    <lastmod>2021-01-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://payloads.cn/about/index.html</loc>
     
     <lastmod>2021-01-27</lastmod>
@@ -79,27 +114,6 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/2020/0703/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</loc>
-    
-    <lastmod>2021-01-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0324/create-customized-metasploit%E2%80%94mssql-refactoring.html</loc>
-    
-    <lastmod>2021-01-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0703/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html</loc>
-    
-    <lastmod>2021-01-27</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://payloads.cn/2020/0228/create-customized-metasploit%E2%80%94system-framework.html</loc>
     
     <lastmod>2021-01-27</lastmod>
@@ -114,21 +128,7 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/2020/0328/create-customized-metasploitclone-users.html</loc>
-    
-    <lastmod>2021-01-27</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://payloads.cn/2020/0302/create-customized-metasploit%E2%80%94analyze-http-module.html</loc>
-    
-    <lastmod>2021-01-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0706/create-customized-metasploitsecurity-log-analysis.html</loc>
     
     <lastmod>2021-01-27</lastmod>
     
@@ -165,14 +165,14 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
+    <loc>https://payloads.cn/tags/Office/</loc>
     <lastmod>2021-01-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://payloads.cn/tags/Office/</loc>
+    <loc>https://payloads.cn/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
     <lastmod>2021-01-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -216,13 +216,6 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/categories/SSH%E9%9A%A7%E9%81%93/</loc>
-    <lastmod>2021-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://payloads.cn/categories/%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81/</loc>
     <lastmod>2021-01-27</lastmod>
     <changefreq>daily</changefreq>
@@ -231,6 +224,13 @@
   
   <url>
     <loc>https://payloads.cn/categories/%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2021-01-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/categories/SSH%E9%9A%A7%E9%81%93/</loc>
     <lastmod>2021-01-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
