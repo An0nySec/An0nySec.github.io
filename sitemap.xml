@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://payloads.cn/2020/0706/create-customized-metasploitsecurity-log-analysis.html</loc>
+    
+    <lastmod>2021-01-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html</loc>
     
     <lastmod>2021-01-27</lastmod>
@@ -37,7 +44,7 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/2019/1213/cobaltstrike-advanced-chapterbatch-online.html</loc>
+    <loc>https://payloads.cn/2019/1213/.html</loc>
     
     <lastmod>2021-01-27</lastmod>
     
@@ -72,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/2020/0703/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</loc>
+    <loc>https://payloads.cn/2020/0703/.html</loc>
     
     <lastmod>2021-01-27</lastmod>
     
@@ -115,13 +122,6 @@
   
   <url>
     <loc>https://payloads.cn/2020/0302/create-customized-metasploit%E2%80%94analyze-http-module.html</loc>
-    
-    <lastmod>2021-01-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0706/create-customized-metasploitsecurity-log-analysis.html</loc>
     
     <lastmod>2021-01-27</lastmod>
     
@@ -216,6 +216,13 @@
   </url>
   
   <url>
+    <loc>https://payloads.cn/categories/SSH%E9%9A%A7%E9%81%93/</loc>
+    <lastmod>2021-01-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://payloads.cn/categories/%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81/</loc>
     <lastmod>2021-01-27</lastmod>
     <changefreq>daily</changefreq>
@@ -224,13 +231,6 @@
   
   <url>
     <loc>https://payloads.cn/categories/%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2021-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/categories/SSH%E9%9A%A7%E9%81%93/</loc>
     <lastmod>2021-01-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
