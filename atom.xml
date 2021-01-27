@@ -6,7 +6,7 @@
   <link href="https://payloads.cn/atom.xml" rel="self"/>
   
   <link href="https://payloads.cn/"/>
-  <updated>2021-01-27T06:53:24.313Z</updated>
+  <updated>2021-01-27T07:04:24.841Z</updated>
   <id>https://payloads.cn/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>打造定制化的Metasploit—主机信息收集</title>
+    <link href="https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html"/>
+    <id>https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html</id>
+    <published>2020-07-18T02:26:12.000Z</published>
+    <updated>2021-01-27T07:04:24.841Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
+&lt;p&gt;——AnonySec&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2</summary>
+      
+    
+    
+    
+    <category term="开发" scheme="https://payloads.cn/categories/%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Metasploit" scheme="https://payloads.cn/tags/Metasploit/"/>
+    
+  </entry>
   
   <entry>
     <title>打造定制化的Metasploit—安全日志分析</title>
