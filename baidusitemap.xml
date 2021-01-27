@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html</loc>
-    <lastmod>2021-01-27</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0703/create-customized-metasploitsecurity-log-analysis.html</loc>
+    <loc>https://payloads.cn/2020/0327/create-customized-metasploitclone-users.html</loc>
     <lastmod>2021-01-27</lastmod>
   </url>
   <url>
@@ -13,11 +9,15 @@
     <lastmod>2021-01-27</lastmod>
   </url>
   <url>
-    <loc>https://payloads.cn/2020/0331/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</loc>
+    <loc>https://payloads.cn/2020/0703/create-customized-metasploitsecurity-log-analysis.html</loc>
     <lastmod>2021-01-27</lastmod>
   </url>
   <url>
-    <loc>https://payloads.cn/2020/0327/create-customized-metasploitclone-users.html</loc>
+    <loc>https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html</loc>
+    <lastmod>2021-01-27</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0331/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</loc>
     <lastmod>2021-01-27</lastmod>
   </url>
   <url>
