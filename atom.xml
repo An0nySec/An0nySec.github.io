@@ -314,11 +314,11 @@
   </entry>
   
   <entry>
-    <title>SSH加密隧道之端口转发</title>
-    <link href="https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html"/>
-    <id>https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html</id>
-    <published>2020-01-09T05:35:28.000Z</published>
-    <updated>2021-01-27T05:59:52.591Z</updated>
+    <title>利用netsh进行端口转发</title>
+    <link href="https://payloads.cn/2020/0209/port-forwarding-using-netsh.html"/>
+    <id>https://payloads.cn/2020/0209/port-forwarding-using-netsh.html</id>
+    <published>2020-02-09T08:47:35.000Z</published>
+    <updated>2021-01-28T08:49:45.515Z</updated>
     
     
       
@@ -333,7 +333,61 @@
     
     
     
-    <category term="SSH隧道" scheme="https://payloads.cn/categories/SSH%E9%9A%A7%E9%81%93/"/>
+    <category term="端口转发" scheme="https://payloads.cn/categories/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/"/>
+    
+    
+    <category term="内网穿透" scheme="https://payloads.cn/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>利用iptables进行端口转发</title>
+    <link href="https://payloads.cn/2020/0209/use-iptables-for-port-forwarding.html"/>
+    <id>https://payloads.cn/2020/0209/use-iptables-for-port-forwarding.html</id>
+    <published>2020-02-09T08:40:18.000Z</published>
+    <updated>2021-01-28T08:47:19.041Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
+&lt;p&gt;——AnonySec&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2</summary>
+      
+    
+    
+    
+    <category term="端口转发" scheme="https://payloads.cn/categories/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/"/>
+    
+    
+    <category term="内网穿透" scheme="https://payloads.cn/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SSH加密隧道之端口转发</title>
+    <link href="https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html"/>
+    <id>https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html</id>
+    <published>2020-01-09T05:35:28.000Z</published>
+    <updated>2021-01-28T08:44:30.877Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
+&lt;p&gt;——AnonySec&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2</summary>
+      
+    
+    
+    
+    <category term="端口转发" scheme="https://payloads.cn/categories/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/"/>
     
     
     <category term="内网穿透" scheme="https://payloads.cn/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
@@ -499,60 +553,6 @@
     
     
     <category term="Office" scheme="https://payloads.cn/tags/Office/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Shfit映像劫持后门新玩法</title>
-    <link href="https://payloads.cn/2019/1205/shfit-image-hijacks-backdoor-new-gameplay.html"/>
-    <id>https://payloads.cn/2019/1205/shfit-image-hijacks-backdoor-new-gameplay.html</id>
-    <published>2019-12-05T05:08:11.000Z</published>
-    <updated>2021-01-27T07:26:57.621Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
-&lt;p&gt;——AnonySec&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2</summary>
-      
-    
-    
-    
-    <category term="权限维持" scheme="https://payloads.cn/categories/%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81/"/>
-    
-    
-    <category term="Windows" scheme="https://payloads.cn/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>解密Winscp客户端中保存的密码hash</title>
-    <link href="https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-winscp-client.html"/>
-    <id>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-winscp-client.html</id>
-    <published>2019-12-04T14:08:50.000Z</published>
-    <updated>2021-01-27T05:58:07.758Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
-&lt;p&gt;——AnonySec&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3</summary>
-      
-    
-    
-    
-    <category term="内网密码搜集" scheme="https://payloads.cn/categories/%E5%86%85%E7%BD%91%E5%AF%86%E7%A0%81%E6%90%9C%E9%9B%86/"/>
-    
-    
-    <category term="解密客户端" scheme="https://payloads.cn/tags/%E8%A7%A3%E5%AF%86%E5%AE%A2%E6%88%B7%E7%AB%AF/"/>
     
   </entry>
   

@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://payloads.cn/2020/0209/port-forwarding-using-netsh.html</loc>
+    
+    <lastmod>2021-01-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0209/use-iptables-for-port-forwarding.html</loc>
+    
+    <lastmod>2021-01-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html</loc>
+    
+    <lastmod>2021-01-28</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://payloads.cn/2020/0107/how-to-use-msfvenom.html</loc>
     
     <lastmod>2021-01-28</lastmod>
@@ -94,13 +115,6 @@
   
   <url>
     <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-securecrt-client.html</loc>
-    
-    <lastmod>2021-01-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html</loc>
     
     <lastmod>2021-01-27</lastmod>
     
@@ -279,7 +293,7 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/categories/SSH%E9%9A%A7%E9%81%93/</loc>
+    <loc>https://payloads.cn/categories/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/</loc>
     <lastmod>2021-01-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
