@@ -6,7 +6,7 @@
   <link href="https://payloads.cn/atom.xml" rel="self"/>
   
   <link href="https://payloads.cn/"/>
-  <updated>2021-01-27T08:45:58.229Z</updated>
+  <updated>2021-01-28T02:54:35.065Z</updated>
   <id>https://payloads.cn/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Metasploit的payloads模块详解</title>
+    <link href="https://payloads.cn/2021/0128/detailed-explanation-of-metasploits-payloads-module.html"/>
+    <id>https://payloads.cn/2021/0128/detailed-explanation-of-metasploits-payloads-module.html</id>
+    <published>2021-01-28T02:54:05.000Z</published>
+    <updated>2021-01-28T02:54:35.065Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
+&lt;p&gt;——AnonySec&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3</summary>
+      
+    
+    
+    
+    <category term="文章分类" scheme="https://payloads.cn/categories/%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB/"/>
+    
+    
+    <category term="文章标签" scheme="https://payloads.cn/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>Linux 隐匿技巧</title>
@@ -341,6 +368,33 @@
   </entry>
   
   <entry>
+    <title>如何使用msfvenom</title>
+    <link href="https://payloads.cn/2020/0107/how-to-use-msfvenom.html"/>
+    <id>https://payloads.cn/2020/0107/how-to-use-msfvenom.html</id>
+    <published>2020-01-07T02:51:54.000Z</published>
+    <updated>2021-01-28T02:53:42.870Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
+&lt;p&gt;——AnonySec&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3</summary>
+      
+    
+    
+    
+    <category term="Tools" scheme="https://payloads.cn/categories/Tools/"/>
+    
+    
+    <category term="Metasploit" scheme="https://payloads.cn/tags/Metasploit/"/>
+    
+  </entry>
+  
+  <entry>
     <title>实战中内网穿透的打法</title>
     <link href="https://payloads.cn/2020/0105/how-to-penetrate-the-intranet-in-actual-combat.html"/>
     <id>https://payloads.cn/2020/0105/how-to-penetrate-the-intranet-in-actual-combat.html</id>
@@ -499,60 +553,6 @@
     
     
     <category term="解密客户端" scheme="https://payloads.cn/tags/%E8%A7%A3%E5%AF%86%E5%AE%A2%E6%88%B7%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>解密SecureCRT客户端中保存的密码hash</title>
-    <link href="https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-securecrt-client.html"/>
-    <id>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-securecrt-client.html</id>
-    <published>2019-12-04T14:08:30.000Z</published>
-    <updated>2021-01-27T06:01:35.611Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
-&lt;p&gt;——AnonySec&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3</summary>
-      
-    
-    
-    
-    <category term="内网密码搜集" scheme="https://payloads.cn/categories/%E5%86%85%E7%BD%91%E5%AF%86%E7%A0%81%E6%90%9C%E9%9B%86/"/>
-    
-    
-    <category term="解密客户端" scheme="https://payloads.cn/tags/%E8%A7%A3%E5%AF%86%E5%AE%A2%E6%88%B7%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Frp内网穿透实战</title>
-    <link href="https://payloads.cn/2019/1204/frp-intranet-penetration-actual-combat.html"/>
-    <id>https://payloads.cn/2019/1204/frp-intranet-penetration-actual-combat.html</id>
-    <published>2019-12-04T14:07:28.000Z</published>
-    <updated>2021-01-27T05:59:12.901Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
-&lt;p&gt;——AnonySec&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2</summary>
-      
-    
-    
-    
-    <category term="Tools" scheme="https://payloads.cn/categories/Tools/"/>
-    
-    
-    <category term="内网穿透" scheme="https://payloads.cn/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
     
   </entry>
   

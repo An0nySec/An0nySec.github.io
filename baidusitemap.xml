@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://payloads.cn/2021/0128/detailed-explanation-of-metasploits-payloads-module.html</loc>
+    <lastmod>2021-01-28</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0107/how-to-use-msfvenom.html</loc>
+    <lastmod>2021-01-28</lastmod>
+  </url>
+  <url>
     <loc>https://payloads.cn/2020/1201/linux-hiding-techniques.html</loc>
     <lastmod>2021-01-27</lastmod>
   </url>
