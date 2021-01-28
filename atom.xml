@@ -6,7 +6,7 @@
   <link href="https://payloads.cn/atom.xml" rel="self"/>
   
   <link href="https://payloads.cn/"/>
-  <updated>2021-01-28T02:54:35.065Z</updated>
+  <updated>2021-01-28T02:55:56.619Z</updated>
   <id>https://payloads.cn/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Metasploit的payloads模块详解</title>
-    <link href="https://payloads.cn/2021/0128/detailed-explanation-of-metasploits-payloads-module.html"/>
-    <id>https://payloads.cn/2021/0128/detailed-explanation-of-metasploits-payloads-module.html</id>
-    <published>2021-01-28T02:54:05.000Z</published>
-    <updated>2021-01-28T02:54:35.065Z</updated>
+    <link href="https://payloads.cn/2021/0108/detailed-explanation-of-metasploits-payloads-module.html"/>
+    <id>https://payloads.cn/2021/0108/detailed-explanation-of-metasploits-payloads-module.html</id>
+    <published>2021-01-08T02:54:05.000Z</published>
+    <updated>2021-01-28T02:55:56.619Z</updated>
     
     
       
@@ -36,10 +36,10 @@
     
     
     
-    <category term="文章分类" scheme="https://payloads.cn/categories/%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB/"/>
+    <category term="Tools" scheme="https://payloads.cn/categories/Tools/"/>
     
     
-    <category term="文章标签" scheme="https://payloads.cn/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE/"/>
+    <category term="Metasploit" scheme="https://payloads.cn/tags/Metasploit/"/>
     
   </entry>
   
@@ -372,7 +372,7 @@
     <link href="https://payloads.cn/2020/0107/how-to-use-msfvenom.html"/>
     <id>https://payloads.cn/2020/0107/how-to-use-msfvenom.html</id>
     <published>2020-01-07T02:51:54.000Z</published>
-    <updated>2021-01-28T02:53:42.870Z</updated>
+    <updated>2021-01-28T02:55:19.244Z</updated>
     
     
       
