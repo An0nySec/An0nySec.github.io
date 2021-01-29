@@ -314,6 +314,33 @@
   </entry>
   
   <entry>
+    <title>Reverse ICMP Shell</title>
+    <link href="https://payloads.cn/2020/0212/reverse-icmp-shell.html"/>
+    <id>https://payloads.cn/2020/0212/reverse-icmp-shell.html</id>
+    <published>2020-02-12T08:54:27.000Z</published>
+    <updated>2021-01-29T02:55:08.570Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
+&lt;p&gt;——AnonySec&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2</summary>
+      
+    
+    
+    
+    <category term="Tools" scheme="https://payloads.cn/categories/Tools/"/>
+    
+    
+    <category term="内网穿透" scheme="https://payloads.cn/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>利用netsh进行端口转发</title>
     <link href="https://payloads.cn/2020/0209/port-forwarding-using-netsh.html"/>
     <id>https://payloads.cn/2020/0209/port-forwarding-using-netsh.html</id>
@@ -364,6 +391,60 @@
     
     
     <category term="内网穿透" scheme="https://payloads.cn/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>利用PDF文件获取Net-NTLM hash</title>
+    <link href="https://payloads.cn/2020/0203/use-pdf-file-to-obtain-netntlm-hash.html"/>
+    <id>https://payloads.cn/2020/0203/use-pdf-file-to-obtain-netntlm-hash.html</id>
+    <published>2020-02-03T08:54:50.000Z</published>
+    <updated>2021-01-29T03:10:51.793Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
+&lt;p&gt;——AnonySec&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3</summary>
+      
+    
+    
+    
+    <category term="Skills" scheme="https://payloads.cn/categories/Skills/"/>
+    
+    
+    <category term="Windows" scheme="https://payloads.cn/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows权限维持之WinLogon</title>
+    <link href="https://payloads.cn/2020/0114/winlogon-for-windows-permission-maintenance.html"/>
+    <id>https://payloads.cn/2020/0114/winlogon-for-windows-permission-maintenance.html</id>
+    <published>2020-01-14T11:42:25.000Z</published>
+    <updated>2021-01-29T03:15:52.742Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
+&lt;p&gt;——AnonySec&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3</summary>
+      
+    
+    
+    
+    <category term="权限维持" scheme="https://payloads.cn/categories/%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81/"/>
+    
+    
+    <category term="Windows" scheme="https://payloads.cn/tags/Windows/"/>
     
   </entry>
   
@@ -449,65 +530,11 @@
   </entry>
   
   <entry>
-    <title>实战中内网穿透的打法</title>
-    <link href="https://payloads.cn/2020/0105/how-to-penetrate-the-intranet-in-actual-combat.html"/>
-    <id>https://payloads.cn/2020/0105/how-to-penetrate-the-intranet-in-actual-combat.html</id>
-    <published>2020-01-05T13:35:48.000Z</published>
-    <updated>2021-01-27T05:58:36.585Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
-&lt;p&gt;——AnonySec&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2</summary>
-      
-    
-    
-    
-    <category term="总结" scheme="https://payloads.cn/categories/%E6%80%BB%E7%BB%93/"/>
-    
-    
-    <category term="内网穿透" scheme="https://payloads.cn/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CobaltStrike进阶篇-批量上线</title>
-    <link href="https://payloads.cn/2019/1213/cobaltstrike-advanced-chapterbatch-online.html"/>
-    <id>https://payloads.cn/2019/1213/cobaltstrike-advanced-chapterbatch-online.html</id>
-    <published>2019-12-12T18:00:36.000Z</published>
-    <updated>2021-01-27T05:58:53.764Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
-&lt;p&gt;——AnonySec&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2</summary>
-      
-    
-    
-    
-    <category term="Tools" scheme="https://payloads.cn/categories/Tools/"/>
-    
-    
-    <category term="CobaltStrike" scheme="https://payloads.cn/tags/CobaltStrike/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CobaltStrike与Metasploit实战联动</title>
-    <link href="https://payloads.cn/2019/1211/cobaltstrike-and-metasploit-actual-combat-linkage.html"/>
-    <id>https://payloads.cn/2019/1211/cobaltstrike-and-metasploit-actual-combat-linkage.html</id>
-    <published>2019-12-10T16:22:29.000Z</published>
-    <updated>2021-01-27T05:59:03.378Z</updated>
+    <title>Windows权限维持之LogonScripts</title>
+    <link href="https://payloads.cn/2020/0106/logonscripts-for-windows-permission-maintenance.html"/>
+    <id>https://payloads.cn/2020/0106/logonscripts-for-windows-permission-maintenance.html</id>
+    <published>2020-01-06T09:19:19.000Z</published>
+    <updated>2021-01-29T03:20:12.018Z</updated>
     
     
       
@@ -522,37 +549,10 @@
     
     
     
-    <category term="Tools" scheme="https://payloads.cn/categories/Tools/"/>
+    <category term="权限维持" scheme="https://payloads.cn/categories/%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81/"/>
     
     
-    <category term="CobaltStrike" scheme="https://payloads.cn/tags/CobaltStrike/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Office宏的基本利用</title>
-    <link href="https://payloads.cn/2019/1209/basic-use-of-office-macros.html"/>
-    <id>https://payloads.cn/2019/1209/basic-use-of-office-macros.html</id>
-    <published>2019-12-09T06:35:09.000Z</published>
-    <updated>2021-01-27T05:59:23.644Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
-&lt;p&gt;——AnonySec&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2</summary>
-      
-    
-    
-    
-    <category term="钓鱼" scheme="https://payloads.cn/categories/%E9%92%93%E9%B1%BC/"/>
-    
-    
-    <category term="Office" scheme="https://payloads.cn/tags/Office/"/>
+    <category term="Windows" scheme="https://payloads.cn/tags/Windows/"/>
     
   </entry>
   

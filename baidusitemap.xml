@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://payloads.cn/2020/0106/logonscripts-for-windows-permission-maintenance.html</loc>
+    <lastmod>2021-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0114/winlogon-for-windows-permission-maintenance.html</loc>
+    <lastmod>2021-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0203/use-pdf-file-to-obtain-netntlm-hash.html</loc>
+    <lastmod>2021-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0212/reverse-icmp-shell.html</loc>
+    <lastmod>2021-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-securecrt-client.html</loc>
+    <lastmod>2021-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-winscp-client.html</loc>
+    <lastmod>2021-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2019/1022/shiro-deserialization-vulnerability-reproduced.html</loc>
+    <lastmod>2021-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://payloads.cn/2020/0209/use-iptables-for-port-forwarding.html</loc>
     <lastmod>2021-01-28</lastmod>
   </url>
@@ -57,10 +85,6 @@
     <lastmod>2021-01-27</lastmod>
   </url>
   <url>
-    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-securecrt-client.html</loc>
-    <lastmod>2021-01-27</lastmod>
-  </url>
-  <url>
     <loc>https://payloads.cn/2019/1209/basic-use-of-office-macros.html</loc>
     <lastmod>2021-01-27</lastmod>
   </url>
@@ -82,10 +106,6 @@
   </url>
   <url>
     <loc>https://payloads.cn/2020/0105/how-to-penetrate-the-intranet-in-actual-combat.html</loc>
-    <lastmod>2021-01-27</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-winscp-client.html</loc>
     <lastmod>2021-01-27</lastmod>
   </url>
   <url>
