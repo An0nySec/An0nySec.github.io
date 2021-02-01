@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://payloads.cn/2020/0105/intranet-penetration-in-actual-combat.html</loc>
+    
+    <lastmod>2021-02-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://payloads.cn/about/index.html</loc>
     
     <lastmod>2021-02-01</lastmod>
@@ -198,13 +205,6 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/2020/0105/intranet-penetration-in-actual-combat.html</loc>
-    
-    <lastmod>2021-01-27</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://payloads.cn/2020/0228/create-customized-metasploit%E2%80%94system-framework.html</loc>
     
     <lastmod>2021-01-27</lastmod>
@@ -335,13 +335,6 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/categories/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/</loc>
-    <lastmod>2021-02-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://payloads.cn/categories/%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81/</loc>
     <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
@@ -350,6 +343,13 @@
   
   <url>
     <loc>https://payloads.cn/categories/RCE/</loc>
+    <lastmod>2021-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/categories/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/</loc>
     <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
