@@ -18,8 +18,8 @@
   
   <entry>
     <title>Linux 隐匿技巧</title>
-    <link href="https://payloads.cn/2020/1201/.html"/>
-    <id>https://payloads.cn/2020/1201/.html</id>
+    <link href="https://payloads.cn/2020/1201/linux-hiding-techniques.html"/>
+    <id>https://payloads.cn/2020/1201/linux-hiding-techniques.html</id>
     <published>2020-12-01T04:16:00.000Z</published>
     <updated>2021-01-27T08:45:58.229Z</updated>
     
@@ -45,8 +45,8 @@
   
   <entry>
     <title>Metasploit流量分析与反取证</title>
-    <link href="https://payloads.cn/2020/0810/.html"/>
-    <id>https://payloads.cn/2020/0810/.html</id>
+    <link href="https://payloads.cn/2020/0810/metasploit-traffic-analysis-and-antiforensics.html"/>
+    <id>https://payloads.cn/2020/0810/metasploit-traffic-analysis-and-antiforensics.html</id>
     <published>2020-08-10T07:21:21.000Z</published>
     <updated>2021-01-27T07:29:11.570Z</updated>
     
@@ -72,8 +72,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—主机信息收集</title>
-    <link href="https://payloads.cn/2020/0718/.html"/>
-    <id>https://payloads.cn/2020/0718/.html</id>
+    <link href="https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html"/>
+    <id>https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html</id>
     <published>2020-07-18T02:26:12.000Z</published>
     <updated>2021-01-27T07:15:35.438Z</updated>
     
@@ -99,8 +99,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—安全日志分析</title>
-    <link href="https://payloads.cn/2020/0703/.html"/>
-    <id>https://payloads.cn/2020/0703/.html</id>
+    <link href="https://payloads.cn/2020/0703/create-customized-metasploitsecurity-log-analysis.html"/>
+    <id>https://payloads.cn/2020/0703/create-customized-metasploitsecurity-log-analysis.html</id>
     <published>2020-07-02T17:56:32.000Z</published>
     <updated>2021-01-27T07:15:43.290Z</updated>
     
@@ -126,8 +126,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—邮服用户枚举</title>
-    <link href="https://payloads.cn/2020/0531/.html"/>
-    <id>https://payloads.cn/2020/0531/.html</id>
+    <link href="https://payloads.cn/2020/0531/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html"/>
+    <id>https://payloads.cn/2020/0531/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html</id>
     <published>2020-05-31T15:52:26.000Z</published>
     <updated>2021-01-27T07:15:53.358Z</updated>
     
@@ -153,8 +153,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—Redis未授权</title>
-    <link href="https://payloads.cn/2020/0331/.html"/>
-    <id>https://payloads.cn/2020/0331/.html</id>
+    <link href="https://payloads.cn/2020/0331/create-customized-metasploit%E2%80%94unauthorized-by-redis.html"/>
+    <id>https://payloads.cn/2020/0331/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</id>
     <published>2020-03-31T06:41:21.000Z</published>
     <updated>2021-01-27T07:15:27.544Z</updated>
     
@@ -180,8 +180,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—克隆用户</title>
-    <link href="https://payloads.cn/2020/0327/.html"/>
-    <id>https://payloads.cn/2020/0327/.html</id>
+    <link href="https://payloads.cn/2020/0327/create-customized-metasploitclone-users.html"/>
+    <id>https://payloads.cn/2020/0327/create-customized-metasploitclone-users.html</id>
     <published>2020-03-26T16:56:12.000Z</published>
     <updated>2021-01-27T07:16:01.741Z</updated>
     
@@ -207,8 +207,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—MSSQL重构</title>
-    <link href="https://payloads.cn/2020/0325/.html"/>
-    <id>https://payloads.cn/2020/0325/.html</id>
+    <link href="https://payloads.cn/2020/0325/create-customized-metasploit%E2%80%94mssql-refactoring.html"/>
+    <id>https://payloads.cn/2020/0325/create-customized-metasploit%E2%80%94mssql-refactoring.html</id>
     <published>2020-03-25T11:05:08.000Z</published>
     <updated>2021-01-27T07:15:19.465Z</updated>
     
@@ -234,8 +234,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—分析HTTP模块</title>
-    <link href="https://payloads.cn/2020/0302/.html"/>
-    <id>https://payloads.cn/2020/0302/.html</id>
+    <link href="https://payloads.cn/2020/0302/create-customized-metasploit%E2%80%94analyze-http-module.html"/>
+    <id>https://payloads.cn/2020/0302/create-customized-metasploit%E2%80%94analyze-http-module.html</id>
     <published>2020-03-02T01:11:13.000Z</published>
     <updated>2021-01-27T05:53:54.682Z</updated>
     
@@ -261,8 +261,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—体系框架</title>
-    <link href="https://payloads.cn/2020/0228/.html"/>
-    <id>https://payloads.cn/2020/0228/.html</id>
+    <link href="https://payloads.cn/2020/0228/create-customized-metasploit%E2%80%94system-framework.html"/>
+    <id>https://payloads.cn/2020/0228/create-customized-metasploit%E2%80%94system-framework.html</id>
     <published>2020-02-28T11:10:05.000Z</published>
     <updated>2021-01-27T05:56:55.862Z</updated>
     
@@ -288,8 +288,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—认识Ruby</title>
-    <link href="https://payloads.cn/2020/0220/.html"/>
-    <id>https://payloads.cn/2020/0220/.html</id>
+    <link href="https://payloads.cn/2020/0220/create-customized-metasploit%E2%80%94understand-ruby.html"/>
+    <id>https://payloads.cn/2020/0220/create-customized-metasploit%E2%80%94understand-ruby.html</id>
     <published>2020-02-20T07:09:30.000Z</published>
     <updated>2021-01-27T05:56:39.872Z</updated>
     
@@ -315,8 +315,8 @@
   
   <entry>
     <title>Reverse ICMP Shell</title>
-    <link href="https://payloads.cn/2020/0212/.html"/>
-    <id>https://payloads.cn/2020/0212/.html</id>
+    <link href="https://payloads.cn/2020/0212/reverse-icmp-shell.html"/>
+    <id>https://payloads.cn/2020/0212/reverse-icmp-shell.html</id>
     <published>2020-02-12T08:54:27.000Z</published>
     <updated>2021-01-29T03:23:55.477Z</updated>
     
@@ -342,8 +342,8 @@
   
   <entry>
     <title>利用netsh进行端口转发</title>
-    <link href="https://payloads.cn/2020/0209/.html"/>
-    <id>https://payloads.cn/2020/0209/.html</id>
+    <link href="https://payloads.cn/2020/0209/port-forwarding-using-netsh.html"/>
+    <id>https://payloads.cn/2020/0209/port-forwarding-using-netsh.html</id>
     <published>2020-02-09T08:47:35.000Z</published>
     <updated>2021-01-28T08:50:15.774Z</updated>
     
@@ -369,8 +369,8 @@
   
   <entry>
     <title>利用iptables进行端口转发</title>
-    <link href="https://payloads.cn/2020/0209/.html"/>
-    <id>https://payloads.cn/2020/0209/.html</id>
+    <link href="https://payloads.cn/2020/0209/use-iptables-for-port-forwarding.html"/>
+    <id>https://payloads.cn/2020/0209/use-iptables-for-port-forwarding.html</id>
     <published>2020-02-09T08:40:18.000Z</published>
     <updated>2021-01-28T08:50:15.776Z</updated>
     
@@ -396,8 +396,8 @@
   
   <entry>
     <title>利用PDF文件获取Net-NTLM hash</title>
-    <link href="https://payloads.cn/2020/0203/.html"/>
-    <id>https://payloads.cn/2020/0203/.html</id>
+    <link href="https://payloads.cn/2020/0203/use-pdf-file-to-obtain-netntlm-hash.html"/>
+    <id>https://payloads.cn/2020/0203/use-pdf-file-to-obtain-netntlm-hash.html</id>
     <published>2020-02-03T08:54:50.000Z</published>
     <updated>2021-01-29T03:23:55.379Z</updated>
     
@@ -423,8 +423,8 @@
   
   <entry>
     <title>Windows权限维持之WinLogon</title>
-    <link href="https://payloads.cn/2020/0114/.html"/>
-    <id>https://payloads.cn/2020/0114/.html</id>
+    <link href="https://payloads.cn/2020/0114/winlogon-for-windows-permission-maintenance.html"/>
+    <id>https://payloads.cn/2020/0114/winlogon-for-windows-permission-maintenance.html</id>
     <published>2020-01-14T11:42:25.000Z</published>
     <updated>2021-01-29T03:23:55.378Z</updated>
     
@@ -450,8 +450,8 @@
   
   <entry>
     <title>SSH加密隧道之端口转发</title>
-    <link href="https://payloads.cn/2020/0109/.html"/>
-    <id>https://payloads.cn/2020/0109/.html</id>
+    <link href="https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html"/>
+    <id>https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html</id>
     <published>2020-01-09T05:35:28.000Z</published>
     <updated>2021-01-28T08:44:30.877Z</updated>
     
@@ -477,8 +477,8 @@
   
   <entry>
     <title>Metasploit的payloads模块详解</title>
-    <link href="https://payloads.cn/2020/0108/.html"/>
-    <id>https://payloads.cn/2020/0108/.html</id>
+    <link href="https://payloads.cn/2020/0108/detailed-explanation-of-metasploits-payloads-module.html"/>
+    <id>https://payloads.cn/2020/0108/detailed-explanation-of-metasploits-payloads-module.html</id>
     <published>2020-01-08T02:54:05.000Z</published>
     <updated>2021-01-28T03:02:55.967Z</updated>
     
@@ -504,8 +504,8 @@
   
   <entry>
     <title>如何使用msfvenom</title>
-    <link href="https://payloads.cn/2020/0107/.html"/>
-    <id>https://payloads.cn/2020/0107/.html</id>
+    <link href="https://payloads.cn/2020/0107/how-to-use-msfvenom.html"/>
+    <id>https://payloads.cn/2020/0107/how-to-use-msfvenom.html</id>
     <published>2020-01-07T02:51:54.000Z</published>
     <updated>2021-01-28T03:35:32.082Z</updated>
     
@@ -531,8 +531,8 @@
   
   <entry>
     <title>Windows权限维持之LogonScripts</title>
-    <link href="https://payloads.cn/2020/0106/.html"/>
-    <id>https://payloads.cn/2020/0106/.html</id>
+    <link href="https://payloads.cn/2020/0106/logonscripts-for-windows-permission-maintenance.html"/>
+    <id>https://payloads.cn/2020/0106/logonscripts-for-windows-permission-maintenance.html</id>
     <published>2020-01-06T09:19:19.000Z</published>
     <updated>2021-01-29T03:29:58.131Z</updated>
     
