@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://payloads.cn/2020/0703/create-customized-metasploitsecurity-log-analysis.html</loc>
+    
+    <lastmod>2021-03-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0327/create-customized-metasploitclone-users.html</loc>
+    
+    <lastmod>2021-03-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0531/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html</loc>
+    
+    <lastmod>2021-03-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html</loc>
+    
+    <lastmod>2021-03-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0325/create-customized-metasploit%E2%80%94mssql-refactoring.html</loc>
+    
+    <lastmod>2021-03-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0331/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</loc>
+    
+    <lastmod>2021-03-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://payloads.cn/2020/0105/intranet-penetration-in-actual-combat.html</loc>
     
     <lastmod>2021-02-01</lastmod>
@@ -37,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/2020/0203/use-pdf-file-to-obtain-netntlm-hash.html</loc>
+    <loc>https://payloads.cn/2020/0203/use-pdf-file-to-get-netntlm-hash.html</loc>
     
     <lastmod>2021-01-29</lastmod>
     
@@ -100,7 +142,7 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/2020/1201/linux-hiding-techniques.html</loc>
+    <loc>https://payloads.cn/2020/1201/linux-concealment-techniques.html</loc>
     
     <lastmod>2021-01-27</lastmod>
     
@@ -122,48 +164,6 @@
   
   <url>
     <loc>https://payloads.cn/2019/1205/shfit-image-hijacks-backdoor-new-gameplay.html</loc>
-    
-    <lastmod>2021-01-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0327/create-customized-metasploitclone-users.html</loc>
-    
-    <lastmod>2021-01-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0531/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html</loc>
-    
-    <lastmod>2021-01-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0703/create-customized-metasploitsecurity-log-analysis.html</loc>
-    
-    <lastmod>2021-01-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html</loc>
-    
-    <lastmod>2021-01-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0331/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</loc>
-    
-    <lastmod>2021-01-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0325/create-customized-metasploit%E2%80%94mssql-refactoring.html</loc>
     
     <lastmod>2021-01-27</lastmod>
     
@@ -242,7 +242,7 @@
 
   <url>
     <loc>https://payloads.cn/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -250,56 +250,56 @@
   
   <url>
     <loc>https://payloads.cn/tags/CobaltStrike/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://payloads.cn/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
-    <lastmod>2021-02-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/tags/Metasploit/</loc>
-    <lastmod>2021-02-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/tags/Office/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://payloads.cn/tags/Linux/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://payloads.cn/tags/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <loc>https://payloads.cn/tags/Metasploit/</loc>
+    <lastmod>2021-03-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/tags/Office/</loc>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://payloads.cn/tags/Windows/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-03-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/tags/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/</loc>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://payloads.cn/tags/%E8%A7%A3%E5%AF%86%E5%AE%A2%E6%88%B7%E7%AB%AF/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -308,70 +308,70 @@
   
   <url>
     <loc>https://payloads.cn/categories/Tools/</loc>
-    <lastmod>2021-02-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/categories/%E9%92%93%E9%B1%BC/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://payloads.cn/categories/Skills/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://payloads.cn/categories/%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://payloads.cn/categories/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/</loc>
-    <lastmod>2021-02-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/categories/RCE/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <loc>https://payloads.cn/categories/%E9%92%93%E9%B1%BC/</loc>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://payloads.cn/categories/%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-03-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/categories/RCE/</loc>
+    <lastmod>2021-03-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/categories/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/</loc>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://payloads.cn/categories/%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://payloads.cn/categories/%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://payloads.cn/categories/%E5%AF%86%E7%A0%81%E6%90%9C%E9%9B%86/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

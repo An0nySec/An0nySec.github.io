@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://payloads.cn/2020/0703/create-customized-metasploitsecurity-log-analysis.html</loc>
+    <lastmod>2021-03-03</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0327/create-customized-metasploitclone-users.html</loc>
+    <lastmod>2021-03-03</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0531/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html</loc>
+    <lastmod>2021-03-03</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html</loc>
+    <lastmod>2021-03-03</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0325/create-customized-metasploit%E2%80%94mssql-refactoring.html</loc>
+    <lastmod>2021-03-03</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0331/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</loc>
+    <lastmod>2021-03-03</lastmod>
+  </url>
+  <url>
     <loc>https://payloads.cn/2020/0105/intranet-penetration-in-actual-combat.html</loc>
     <lastmod>2021-02-01</lastmod>
   </url>
@@ -17,7 +41,7 @@
     <lastmod>2021-01-29</lastmod>
   </url>
   <url>
-    <loc>https://payloads.cn/2020/0203/use-pdf-file-to-obtain-netntlm-hash.html</loc>
+    <loc>https://payloads.cn/2020/0203/use-pdf-file-to-get-netntlm-hash.html</loc>
     <lastmod>2021-01-29</lastmod>
   </url>
   <url>
@@ -53,7 +77,7 @@
     <lastmod>2021-01-28</lastmod>
   </url>
   <url>
-    <loc>https://payloads.cn/2020/1201/linux-hiding-techniques.html</loc>
+    <loc>https://payloads.cn/2020/1201/linux-concealment-techniques.html</loc>
     <lastmod>2021-01-27</lastmod>
   </url>
   <url>
@@ -62,30 +86,6 @@
   </url>
   <url>
     <loc>https://payloads.cn/2019/1205/shfit-image-hijacks-backdoor-new-gameplay.html</loc>
-    <lastmod>2021-01-27</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0327/create-customized-metasploitclone-users.html</loc>
-    <lastmod>2021-01-27</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0531/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html</loc>
-    <lastmod>2021-01-27</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0703/create-customized-metasploitsecurity-log-analysis.html</loc>
-    <lastmod>2021-01-27</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html</loc>
-    <lastmod>2021-01-27</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0331/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</loc>
-    <lastmod>2021-01-27</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0325/create-customized-metasploit%E2%80%94mssql-refactoring.html</loc>
     <lastmod>2021-01-27</lastmod>
   </url>
   <url>

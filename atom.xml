@@ -18,8 +18,8 @@
   
   <entry>
     <title>Linux 隐匿技巧</title>
-    <link href="https://payloads.cn/2020/1201/linux-hiding-techniques.html"/>
-    <id>https://payloads.cn/2020/1201/linux-hiding-techniques.html</id>
+    <link href="https://payloads.cn/2020/1201/linux-concealment-techniques.html"/>
+    <id>https://payloads.cn/2020/1201/linux-concealment-techniques.html</id>
     <published>2020-12-01T04:16:00.000Z</published>
     <updated>2021-01-27T08:45:58.229Z</updated>
     
@@ -75,7 +75,7 @@
     <link href="https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html"/>
     <id>https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html</id>
     <published>2020-07-18T02:26:12.000Z</published>
-    <updated>2021-01-27T07:15:35.438Z</updated>
+    <updated>2021-03-03T01:35:35.380Z</updated>
     
     
       
@@ -102,7 +102,7 @@
     <link href="https://payloads.cn/2020/0703/create-customized-metasploitsecurity-log-analysis.html"/>
     <id>https://payloads.cn/2020/0703/create-customized-metasploitsecurity-log-analysis.html</id>
     <published>2020-07-02T17:56:32.000Z</published>
-    <updated>2021-01-27T07:15:43.290Z</updated>
+    <updated>2021-03-03T01:36:17.425Z</updated>
     
     
       
@@ -129,7 +129,7 @@
     <link href="https://payloads.cn/2020/0531/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html"/>
     <id>https://payloads.cn/2020/0531/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html</id>
     <published>2020-05-31T15:52:26.000Z</published>
-    <updated>2021-01-27T07:15:53.358Z</updated>
+    <updated>2021-03-03T01:35:54.006Z</updated>
     
     
       
@@ -156,7 +156,7 @@
     <link href="https://payloads.cn/2020/0331/create-customized-metasploit%E2%80%94unauthorized-by-redis.html"/>
     <id>https://payloads.cn/2020/0331/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</id>
     <published>2020-03-31T06:41:21.000Z</published>
-    <updated>2021-01-27T07:15:27.544Z</updated>
+    <updated>2021-03-03T01:35:11.888Z</updated>
     
     
       
@@ -183,7 +183,7 @@
     <link href="https://payloads.cn/2020/0327/create-customized-metasploitclone-users.html"/>
     <id>https://payloads.cn/2020/0327/create-customized-metasploitclone-users.html</id>
     <published>2020-03-26T16:56:12.000Z</published>
-    <updated>2021-01-27T07:16:01.741Z</updated>
+    <updated>2021-03-03T01:36:06.082Z</updated>
     
     
       
@@ -210,7 +210,7 @@
     <link href="https://payloads.cn/2020/0325/create-customized-metasploit%E2%80%94mssql-refactoring.html"/>
     <id>https://payloads.cn/2020/0325/create-customized-metasploit%E2%80%94mssql-refactoring.html</id>
     <published>2020-03-25T11:05:08.000Z</published>
-    <updated>2021-01-27T07:15:19.465Z</updated>
+    <updated>2021-03-03T01:35:22.349Z</updated>
     
     
       
@@ -396,8 +396,8 @@
   
   <entry>
     <title>利用PDF文件获取Net-NTLM hash</title>
-    <link href="https://payloads.cn/2020/0203/use-pdf-file-to-obtain-netntlm-hash.html"/>
-    <id>https://payloads.cn/2020/0203/use-pdf-file-to-obtain-netntlm-hash.html</id>
+    <link href="https://payloads.cn/2020/0203/use-pdf-file-to-get-netntlm-hash.html"/>
+    <id>https://payloads.cn/2020/0203/use-pdf-file-to-get-netntlm-hash.html</id>
     <published>2020-02-03T08:54:50.000Z</published>
     <updated>2021-01-29T03:23:55.379Z</updated>
     
