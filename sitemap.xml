@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://payloads.cn/2021/0706/verify-the-existence-of-exchange-mailbox-users.html</loc>
+    
+    <lastmod>2021-07-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/1201/linux-hiding-techniques.html</loc>
+    
+    <lastmod>2021-07-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-stored-in-securecrt-client.html</loc>
+    
+    <lastmod>2021-07-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/2020/0105/how-to-penetrate-the-intranet-in-actual-combat.html</loc>
+    
+    <lastmod>2021-07-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html</loc>
     
     <lastmod>2021-07-07</lastmod>
@@ -65,13 +93,6 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/2020/1201/linux-hiding-techniques.html</loc>
-    
-    <lastmod>2021-07-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://payloads.cn/2019/1204/frp-intranet-penetration-actual-combat.html</loc>
     
     <lastmod>2021-07-07</lastmod>
@@ -94,13 +115,6 @@
   
   <url>
     <loc>https://payloads.cn/2019/1204/basic-functions-and-usage-of-cobaltstrike.html</loc>
-    
-    <lastmod>2021-07-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2020/0105/how-to-penetrate-the-intranet-in-actual-combat.html</loc>
     
     <lastmod>2021-07-07</lastmod>
     
@@ -136,13 +150,6 @@
   
   <url>
     <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-winscp-client.html</loc>
-    
-    <lastmod>2021-07-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-stored-in-securecrt-client.html</loc>
     
     <lastmod>2021-07-07</lastmod>
     
@@ -256,14 +263,14 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/tags/Linux/</loc>
+    <loc>https://payloads.cn/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://payloads.cn/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
+    <loc>https://payloads.cn/tags/Linux/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -304,6 +311,13 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://payloads.cn/tags/Mail/</loc>
+    <lastmod>2021-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -335,14 +349,14 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/categories/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/</loc>
+    <loc>https://payloads.cn/categories/%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://payloads.cn/categories/%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81/</loc>
+    <loc>https://payloads.cn/categories/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -371,6 +385,13 @@
   
   <url>
     <loc>https://payloads.cn/categories/%E5%AF%86%E7%A0%81%E6%90%9C%E9%9B%86/</loc>
+    <lastmod>2021-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/categories/%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
