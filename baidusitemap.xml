@@ -1,123 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://payloads.cn/2020/0703/create-customized-metasploitsecurity-log-analysis.html</loc>
-    <lastmod>2021-03-03</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0327/create-customized-metasploitclone-users.html</loc>
-    <lastmod>2021-03-03</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0531/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html</loc>
-    <lastmod>2021-03-03</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html</loc>
-    <lastmod>2021-03-03</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0325/create-customized-metasploit%E2%80%94mssql-refactoring.html</loc>
-    <lastmod>2021-03-03</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0331/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</loc>
-    <lastmod>2021-03-03</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0105/intranet-penetration-in-actual-combat.html</loc>
-    <lastmod>2021-02-01</lastmod>
+    <loc>https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html</loc>
+    <lastmod>2021-07-07</lastmod>
   </url>
   <url>
     <loc>https://payloads.cn/2019/1204/shiro-deserialization-vulnerability-reproduced.html</loc>
-    <lastmod>2021-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0106/logonscripts-for-windows-permission-maintenance.html</loc>
-    <lastmod>2021-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0212/reverse-icmp-shell.html</loc>
-    <lastmod>2021-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0203/use-pdf-file-to-get-netntlm-hash.html</loc>
-    <lastmod>2021-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0114/winlogon-for-windows-permission-maintenance.html</loc>
-    <lastmod>2021-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-securecrt-client.html</loc>
-    <lastmod>2021-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-winscp-client.html</loc>
-    <lastmod>2021-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0209/use-iptables-for-port-forwarding.html</loc>
-    <lastmod>2021-01-28</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0209/port-forwarding-using-netsh.html</loc>
-    <lastmod>2021-01-28</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html</loc>
-    <lastmod>2021-01-28</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0107/how-to-use-msfvenom.html</loc>
-    <lastmod>2021-01-28</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0108/detailed-explanation-of-metasploits-payloads-module.html</loc>
-    <lastmod>2021-01-28</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/1201/linux-concealment-techniques.html</loc>
-    <lastmod>2021-01-27</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0810/metasploit-traffic-analysis-and-antiforensics.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-07-07</lastmod>
   </url>
   <url>
     <loc>https://payloads.cn/2019/1205/shfit-image-hijacks-backdoor-new-gameplay.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0212/reverse-icmp-shell.html</loc>
+    <lastmod>2021-07-07</lastmod>
   </url>
   <url>
     <loc>https://payloads.cn/2019/1209/basic-use-of-office-macros.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0108/detailed-explanation-of-metasploits-payloads-module.html</loc>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0114/winlogon-for-windows-permission-maintenance.html</loc>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0106/logonscripts-for-windows-permission-maintenance.html</loc>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0810/metasploit-traffic-analysis-and-antiforensics.html</loc>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/1201/linux-hiding-techniques.html</loc>
+    <lastmod>2021-07-07</lastmod>
   </url>
   <url>
     <loc>https://payloads.cn/2019/1204/frp-intranet-penetration-actual-combat.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-07-07</lastmod>
   </url>
   <url>
     <loc>https://payloads.cn/2019/1211/cobaltstrike-and-metasploit-actual-combat-linkage.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-07-07</lastmod>
   </url>
   <url>
     <loc>https://payloads.cn/2019/1213/cobaltstrike-advanced-chapterbatch-online.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-07-07</lastmod>
   </url>
   <url>
     <loc>https://payloads.cn/2019/1204/basic-functions-and-usage-of-cobaltstrike.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0105/how-to-penetrate-the-intranet-in-actual-combat.html</loc>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0107/how-to-use-msfvenom.html</loc>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0203/use-pdf-file-to-get-netntlm-hash.html</loc>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0209/port-forwarding-using-netsh.html</loc>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0209/use-iptables-for-port-forwarding.html</loc>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-winscp-client.html</loc>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-stored-in-securecrt-client.html</loc>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0331/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</loc>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0325/create-customized-metasploit%E2%80%94mssql-refactoring.html</loc>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html</loc>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0531/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html</loc>
+    <lastmod>2021-07-07</lastmod>
   </url>
   <url>
     <loc>https://payloads.cn/2020/0228/create-customized-metasploit%E2%80%94system-framework.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-07-07</lastmod>
   </url>
   <url>
     <loc>https://payloads.cn/2020/0220/create-customized-metasploit%E2%80%94understand-ruby.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0327/create-customized-metasploitclone-users.html</loc>
+    <lastmod>2021-07-07</lastmod>
   </url>
   <url>
     <loc>https://payloads.cn/2020/0302/create-customized-metasploit%E2%80%94analyze-http-module.html</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0703/create-customized-metasploitsecurity-log-analysis.html</loc>
+    <lastmod>2021-07-07</lastmod>
   </url>
 </urlset> 
