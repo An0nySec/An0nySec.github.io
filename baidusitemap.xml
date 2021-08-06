@@ -1,27 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://payloads.cn/2021/0716/rdp-session-hijacking-and-defense.html</loc>
+    <lastmod>2021-08-06</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2021/0714/utilization-of-rdp-protocol-in-lateral-movement.html</loc>
+    <lastmod>2021-08-06</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/1201/linux-hiding-techniques.html</loc>
+    <lastmod>2021-08-06</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2020/0105/how-to-penetrate-the-intranet-in-actual-combat.html</loc>
+    <lastmod>2021-08-06</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2019/1209/basic-use-of-office-macros.html</loc>
+    <lastmod>2021-08-06</lastmod>
+  </url>
+  <url>
+    <loc>https://payloads.cn/2019/1204/shiro-deserialization-vulnerability-reproduced.html</loc>
+    <lastmod>2021-08-06</lastmod>
+  </url>
+  <url>
     <loc>https://payloads.cn/2021/0706/verify-the-existence-of-exchange-mailbox-users.html</loc>
     <lastmod>2021-07-07</lastmod>
   </url>
   <url>
-    <loc>https://payloads.cn/2020/1201/linux-hiding-techniques.html</loc>
-    <lastmod>2021-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-stored-in-securecrt-client.html</loc>
-    <lastmod>2021-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2020/0105/how-to-penetrate-the-intranet-in-actual-combat.html</loc>
+    <loc>https://payloads.cn/2019/1204/decrypt-the-password-hash-saved-in-securecrt-client.html</loc>
     <lastmod>2021-07-07</lastmod>
   </url>
   <url>
     <loc>https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html</loc>
-    <lastmod>2021-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2019/1204/shiro-deserialization-vulnerability-reproduced.html</loc>
     <lastmod>2021-07-07</lastmod>
   </url>
   <url>
@@ -30,10 +42,6 @@
   </url>
   <url>
     <loc>https://payloads.cn/2020/0212/reverse-icmp-shell.html</loc>
-    <lastmod>2021-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://payloads.cn/2019/1209/basic-use-of-office-macros.html</loc>
     <lastmod>2021-07-07</lastmod>
   </url>
   <url>

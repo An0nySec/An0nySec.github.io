@@ -6,7 +6,7 @@
   <link href="https://payloads.cn/atom.xml" rel="self"/>
   
   <link href="https://payloads.cn/"/>
-  <updated>2021-07-07T07:31:42.194Z</updated>
+  <updated>2021-08-06T02:55:51.578Z</updated>
   <id>https://payloads.cn/</id>
   
   <author>
@@ -17,11 +17,65 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>RDP会话劫持与防御</title>
+    <link href="https://payloads.cn/2021/0716/rdp-session-hijacking-and-defense.html"/>
+    <id>https://payloads.cn/2021/0716/rdp-session-hijacking-and-defense.html</id>
+    <published>2021-07-16T08:14:33.000Z</published>
+    <updated>2021-08-06T02:55:51.578Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
+&lt;p&gt;——AnonySec&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;im</summary>
+      
+    
+    
+    
+    <category term="Skills" scheme="https://payloads.cn/categories/Skills/"/>
+    
+    
+    <category term="Windows" scheme="https://payloads.cn/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>横向移动中RDP协议的利用</title>
+    <link href="https://payloads.cn/2021/0714/utilization-of-rdp-protocol-in-lateral-movement.html"/>
+    <id>https://payloads.cn/2021/0714/utilization-of-rdp-protocol-in-lateral-movement.html</id>
+    <published>2021-07-14T09:30:54.000Z</published>
+    <updated>2021-08-06T02:48:36.001Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
+&lt;p&gt;——AnonySec&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2</summary>
+      
+    
+    
+    
+    <category term="Skills" scheme="https://payloads.cn/categories/Skills/"/>
+    
+    
+    <category term="Windows" scheme="https://payloads.cn/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
     <title>验证Exchange邮箱用户是否存在</title>
     <link href="https://payloads.cn/2021/0706/verify-the-existence-of-exchange-mailbox-users.html"/>
     <id>https://payloads.cn/2021/0706/verify-the-existence-of-exchange-mailbox-users.html</id>
     <published>2021-07-06T06:56:32.000Z</published>
-    <updated>2021-07-07T07:31:42.194Z</updated>
+    <updated>2021-07-07T07:32:05.601Z</updated>
     
     
       
@@ -48,7 +102,7 @@
     <link href="https://payloads.cn/2020/1201/linux-hiding-techniques.html"/>
     <id>https://payloads.cn/2020/1201/linux-hiding-techniques.html</id>
     <published>2020-12-01T04:16:00.000Z</published>
-    <updated>2021-07-07T07:19:04.464Z</updated>
+    <updated>2021-08-06T02:48:08.617Z</updated>
     
     
       
@@ -499,60 +553,6 @@
     
     
     <category term="内网穿透" scheme="https://payloads.cn/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Metasploit的payloads模块详解</title>
-    <link href="https://payloads.cn/2020/0108/detailed-explanation-of-metasploits-payloads-module.html"/>
-    <id>https://payloads.cn/2020/0108/detailed-explanation-of-metasploits-payloads-module.html</id>
-    <published>2020-01-08T02:54:05.000Z</published>
-    <updated>2021-07-07T07:16:51.573Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
-&lt;p&gt;——AnonySec&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3</summary>
-      
-    
-    
-    
-    <category term="Tools" scheme="https://payloads.cn/categories/Tools/"/>
-    
-    
-    <category term="Metasploit" scheme="https://payloads.cn/tags/Metasploit/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何使用msfvenom</title>
-    <link href="https://payloads.cn/2020/0107/how-to-use-msfvenom.html"/>
-    <id>https://payloads.cn/2020/0107/how-to-use-msfvenom.html</id>
-    <published>2020-01-07T02:51:54.000Z</published>
-    <updated>2021-07-07T07:15:41.553Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
-&lt;p&gt;——AnonySec&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2</summary>
-      
-    
-    
-    
-    <category term="Tools" scheme="https://payloads.cn/categories/Tools/"/>
-    
-    
-    <category term="Metasploit" scheme="https://payloads.cn/tags/Metasploit/"/>
     
   </entry>
   
