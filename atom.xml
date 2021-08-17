@@ -6,7 +6,7 @@
   <link href="https://payloads.cn/atom.xml" rel="self"/>
   
   <link href="https://payloads.cn/"/>
-  <updated>2021-08-06T02:55:51.578Z</updated>
+  <updated>2021-08-17T07:59:23.275Z</updated>
   <id>https://payloads.cn/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Windows计划任务的进阶</title>
+    <link href="https://payloads.cn/2021/0805/advanced-windows-scheduled-tasks.html"/>
+    <id>https://payloads.cn/2021/0805/advanced-windows-scheduled-tasks.html</id>
+    <published>2021-08-05T02:01:10.000Z</published>
+    <updated>2021-08-17T07:59:23.275Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
+&lt;p&gt;——AnonySec&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;</summary>
+      
+    
+    
+    
+    <category term="权限维持" scheme="https://payloads.cn/categories/%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81/"/>
+    
+    
+    <category term="Windows" scheme="https://payloads.cn/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
     <title>RDP会话劫持与防御</title>
     <link href="https://payloads.cn/2021/0716/rdp-session-hijacking-and-defense.html"/>
     <id>https://payloads.cn/2021/0716/rdp-session-hijacking-and-defense.html</id>
     <published>2021-07-16T08:14:33.000Z</published>
-    <updated>2021-08-06T02:55:51.578Z</updated>
+    <updated>2021-08-06T02:56:11.061Z</updated>
     
     
       
@@ -48,7 +75,7 @@
     <link href="https://payloads.cn/2021/0714/utilization-of-rdp-protocol-in-lateral-movement.html"/>
     <id>https://payloads.cn/2021/0714/utilization-of-rdp-protocol-in-lateral-movement.html</id>
     <published>2021-07-14T09:30:54.000Z</published>
-    <updated>2021-08-06T02:48:36.001Z</updated>
+    <updated>2021-08-06T02:56:10.977Z</updated>
     
     
       
@@ -526,33 +553,6 @@
     
     
     <category term="Windows" scheme="https://payloads.cn/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SSH加密隧道之端口转发</title>
-    <link href="https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html"/>
-    <id>https://payloads.cn/2020/0109/port-forwarding-of-ssh-encrypted-tunnel.html</id>
-    <published>2020-01-09T05:35:28.000Z</published>
-    <updated>2021-07-07T07:18:42.008Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
-&lt;p&gt;——AnonySec&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2</summary>
-      
-    
-    
-    
-    <category term="端口转发" scheme="https://payloads.cn/categories/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/"/>
-    
-    
-    <category term="内网穿透" scheme="https://payloads.cn/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
     
   </entry>
   
