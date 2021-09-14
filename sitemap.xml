@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://payloads.cn/2021/0714/null.html</loc>
+    <loc>https://payloads.cn/2021/0714/utilization-of-rdp-protocol-in-lateral-movement.html</loc>
     
     <lastmod>2021-09-14</lastmod>
     
@@ -291,13 +291,6 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/tags/Linux/</loc>
-    <lastmod>2021-09-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://payloads.cn/tags/Metasploit/</loc>
     <lastmod>2021-09-14</lastmod>
     <changefreq>daily</changefreq>
@@ -306,6 +299,13 @@
   
   <url>
     <loc>https://payloads.cn/tags/Office/</loc>
+    <lastmod>2021-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://payloads.cn/tags/Linux/</loc>
     <lastmod>2021-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -349,14 +349,14 @@
   </url>
   
   <url>
-    <loc>https://payloads.cn/categories/Skills/</loc>
+    <loc>https://payloads.cn/categories/%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90/</loc>
     <lastmod>2021-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://payloads.cn/categories/%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90/</loc>
+    <loc>https://payloads.cn/categories/Skills/</loc>
     <lastmod>2021-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
