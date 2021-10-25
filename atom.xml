@@ -6,7 +6,7 @@
   <link href="https://payloads.cn/atom.xml" rel="self"/>
   
   <link href="https://payloads.cn/"/>
-  <updated>2021-10-25T03:07:41.859Z</updated>
+  <updated>2021-09-01T07:04:53.058Z</updated>
   <id>https://payloads.cn/</id>
   
   <author>
@@ -15,33 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>测试</title>
-    <link href="https://payloads.cn/2021/1025/null.html"/>
-    <id>https://payloads.cn/2021/1025/null.html</id>
-    <published>2021-10-25T03:07:41.000Z</published>
-    <updated>2021-10-25T03:07:41.859Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
-&lt;p&gt;——AnonySec&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;</summary>
-      
-    
-    
-    
-    <category term="文章分类" scheme="https://payloads.cn/categories/%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB/"/>
-    
-    
-    <category term="文章标签" scheme="https://payloads.cn/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE/"/>
-    
-  </entry>
   
   <entry>
     <title>Windows计划任务的进阶</title>
@@ -550,6 +523,33 @@
     
     
     <category term="Skills" scheme="https://payloads.cn/categories/Skills/"/>
+    
+    
+    <category term="Windows" scheme="https://payloads.cn/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows权限维持之WinLogon</title>
+    <link href="https://payloads.cn/2020/0114/winlogon-for-windows-permission-maintenance.html"/>
+    <id>https://payloads.cn/2020/0114/winlogon-for-windows-permission-maintenance.html</id>
+    <published>2020-01-14T11:42:25.000Z</published>
+    <updated>2021-07-07T07:16:41.326Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
+&lt;p&gt;——AnonySec&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3</summary>
+      
+    
+    
+    
+    <category term="权限维持" scheme="https://payloads.cn/categories/%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81/"/>
     
     
     <category term="Windows" scheme="https://payloads.cn/tags/Windows/"/>
