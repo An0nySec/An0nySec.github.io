@@ -6,7 +6,7 @@
   <link href="https://payloads.cn/atom.xml" rel="self"/>
   
   <link href="https://payloads.cn/"/>
-  <updated>2021-10-28T06:29:17.306Z</updated>
+  <updated>2021-12-30T08:34:42.159Z</updated>
   <id>https://payloads.cn/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Bypass AV 添加用户</title>
+    <link href="https://payloads.cn/2021/1230/bypass-av-add-user.html"/>
+    <id>https://payloads.cn/2021/1230/bypass-av-add-user.html</id>
+    <published>2021-12-30T08:29:32.000Z</published>
+    <updated>2021-12-30T08:34:42.159Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
+&lt;p&gt;——AnonySec&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;</summary>
+      
+    
+    
+    
+    <category term="Bypass" scheme="https://payloads.cn/categories/Bypass/"/>
+    
+    
+    <category term="Windows" scheme="https://payloads.cn/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Windows计划任务的进阶</title>
     <link href="https://payloads.cn/2021/0805/advanced-windows-scheduled-tasks.html"/>
     <id>https://payloads.cn/2021/0805/advanced-windows-scheduled-tasks.html</id>
     <published>2021-08-05T02:01:10.000Z</published>
-    <updated>2021-10-28T06:29:17.306Z</updated>
+    <updated>2021-11-02T08:08:30.380Z</updated>
     
     
       
@@ -523,33 +550,6 @@
     
     
     <category term="Skills" scheme="https://payloads.cn/categories/Skills/"/>
-    
-    
-    <category term="Windows" scheme="https://payloads.cn/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows权限维持之WinLogon</title>
-    <link href="https://payloads.cn/2020/0114/winlogon-for-windows-permission-maintenance.html"/>
-    <id>https://payloads.cn/2020/0114/winlogon-for-windows-permission-maintenance.html</id>
-    <published>2020-01-14T11:42:25.000Z</published>
-    <updated>2021-07-07T07:16:41.326Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;君子藏器于身待时而动，安全不露圭角覆盂之安。&lt;/p&gt;
-&lt;p&gt;——AnonySec&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://payloads.cn/&quot;&gt;https://payloads.cn&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3</summary>
-      
-    
-    
-    
-    <category term="权限维持" scheme="https://payloads.cn/categories/%E6%9D%83%E9%99%90%E7%BB%B4%E6%8C%81/"/>
     
     
     <category term="Windows" scheme="https://payloads.cn/tags/Windows/"/>
