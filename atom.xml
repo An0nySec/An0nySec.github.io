@@ -6,7 +6,7 @@
   <link href="https://payloads.cn/atom.xml" rel="self"/>
   
   <link href="https://payloads.cn/"/>
-  <updated>2021-12-31T01:58:00.342Z</updated>
+  <updated>2021-12-31T03:04:52.650Z</updated>
   <id>https://payloads.cn/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Bypass AV 添加用户</title>
-    <link href="https://payloads.cn/2021/1230/.html"/>
-    <id>https://payloads.cn/2021/1230/.html</id>
+    <link href="https://payloads.cn/2021/1230/bypass-av-add-user.html"/>
+    <id>https://payloads.cn/2021/1230/bypass-av-add-user.html</id>
     <published>2021-12-30T08:29:32.000Z</published>
-    <updated>2021-12-31T01:58:00.342Z</updated>
+    <updated>2021-12-31T03:04:52.650Z</updated>
     
     
       
@@ -39,14 +39,12 @@
     <category term="Bypass" scheme="https://payloads.cn/categories/Bypass/"/>
     
     
-    <category term="Windows" scheme="https://payloads.cn/tags/Windows/"/>
-    
   </entry>
   
   <entry>
     <title>Windows计划任务的进阶</title>
-    <link href="https://payloads.cn/2021/0805/.html"/>
-    <id>https://payloads.cn/2021/0805/.html</id>
+    <link href="https://payloads.cn/2021/0805/advanced-windows-scheduled-tasks.html"/>
+    <id>https://payloads.cn/2021/0805/advanced-windows-scheduled-tasks.html</id>
     <published>2021-08-05T02:01:10.000Z</published>
     <updated>2021-12-31T02:58:24.279Z</updated>
     
@@ -70,8 +68,8 @@
   
   <entry>
     <title>RDP会话劫持与防御</title>
-    <link href="https://payloads.cn/2021/0716/.html"/>
-    <id>https://payloads.cn/2021/0716/.html</id>
+    <link href="https://payloads.cn/2021/0716/rdp-session-hijacking-and-defense.html"/>
+    <id>https://payloads.cn/2021/0716/rdp-session-hijacking-and-defense.html</id>
     <published>2021-07-16T08:14:33.000Z</published>
     <updated>2021-12-31T02:59:46.458Z</updated>
     
@@ -95,8 +93,8 @@
   
   <entry>
     <title>横向移动中RDP协议的利用</title>
-    <link href="https://payloads.cn/2021/0714/.html"/>
-    <id>https://payloads.cn/2021/0714/.html</id>
+    <link href="https://payloads.cn/2021/0714/utilization-of-rdp-protocol-in-lateral-movement.html"/>
+    <id>https://payloads.cn/2021/0714/utilization-of-rdp-protocol-in-lateral-movement.html</id>
     <published>2021-07-14T09:30:54.000Z</published>
     <updated>2021-12-31T03:01:27.725Z</updated>
     
@@ -120,8 +118,8 @@
   
   <entry>
     <title>验证Exchange邮箱用户是否存在</title>
-    <link href="https://payloads.cn/2021/0706/.html"/>
-    <id>https://payloads.cn/2021/0706/.html</id>
+    <link href="https://payloads.cn/2021/0706/verify-the-existence-of-exchange-mailbox-users.html"/>
+    <id>https://payloads.cn/2021/0706/verify-the-existence-of-exchange-mailbox-users.html</id>
     <published>2021-07-06T06:56:32.000Z</published>
     <updated>2021-12-31T03:00:38.028Z</updated>
     
@@ -145,8 +143,8 @@
   
   <entry>
     <title>Linux 隐匿技巧</title>
-    <link href="https://payloads.cn/2020/1201/.html"/>
-    <id>https://payloads.cn/2020/1201/.html</id>
+    <link href="https://payloads.cn/2020/1201/linux-hiding-techniques.html"/>
+    <id>https://payloads.cn/2020/1201/linux-hiding-techniques.html</id>
     <published>2020-12-01T04:16:00.000Z</published>
     <updated>2021-12-31T02:59:12.078Z</updated>
     
@@ -170,8 +168,8 @@
   
   <entry>
     <title>Metasploit流量分析与反取证</title>
-    <link href="https://payloads.cn/2020/0810/.html"/>
-    <id>https://payloads.cn/2020/0810/.html</id>
+    <link href="https://payloads.cn/2020/0810/metasploit-traffic-analysis-and-antiforensics.html"/>
+    <id>https://payloads.cn/2020/0810/metasploit-traffic-analysis-and-antiforensics.html</id>
     <published>2020-08-10T07:21:21.000Z</published>
     <updated>2021-12-31T02:56:17.007Z</updated>
     
@@ -195,8 +193,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—主机信息收集</title>
-    <link href="https://payloads.cn/2020/0718/.html"/>
-    <id>https://payloads.cn/2020/0718/.html</id>
+    <link href="https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html"/>
+    <id>https://payloads.cn/2020/0718/create-customized-metasploit%E2%80%94host-information-collection.html</id>
     <published>2020-07-18T02:26:12.000Z</published>
     <updated>2021-12-31T02:55:50.523Z</updated>
     
@@ -220,8 +218,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—安全日志分析</title>
-    <link href="https://payloads.cn/2020/0703/.html"/>
-    <id>https://payloads.cn/2020/0703/.html</id>
+    <link href="https://payloads.cn/2020/0703/create-customized-metasploitsecurity-log-analysis.html"/>
+    <id>https://payloads.cn/2020/0703/create-customized-metasploitsecurity-log-analysis.html</id>
     <published>2020-07-02T17:56:32.000Z</published>
     <updated>2021-12-31T02:55:18.280Z</updated>
     
@@ -245,8 +243,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—邮服用户枚举</title>
-    <link href="https://payloads.cn/2020/0531/.html"/>
-    <id>https://payloads.cn/2020/0531/.html</id>
+    <link href="https://payloads.cn/2020/0531/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html"/>
+    <id>https://payloads.cn/2020/0531/create-customized-metasploit%E2%80%94enumeration-of-mail-service-users.html</id>
     <published>2020-05-31T15:52:26.000Z</published>
     <updated>2021-12-31T02:55:45.465Z</updated>
     
@@ -270,8 +268,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—Redis未授权</title>
-    <link href="https://payloads.cn/2020/0331/.html"/>
-    <id>https://payloads.cn/2020/0331/.html</id>
+    <link href="https://payloads.cn/2020/0331/create-customized-metasploit%E2%80%94unauthorized-by-redis.html"/>
+    <id>https://payloads.cn/2020/0331/create-customized-metasploit%E2%80%94unauthorized-by-redis.html</id>
     <published>2020-03-31T06:41:21.000Z</published>
     <updated>2021-12-31T02:56:00.562Z</updated>
     
@@ -295,8 +293,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—克隆用户</title>
-    <link href="https://payloads.cn/2020/0327/.html"/>
-    <id>https://payloads.cn/2020/0327/.html</id>
+    <link href="https://payloads.cn/2020/0327/create-customized-metasploitclone-users.html"/>
+    <id>https://payloads.cn/2020/0327/create-customized-metasploitclone-users.html</id>
     <published>2020-03-26T16:56:12.000Z</published>
     <updated>2021-12-31T02:55:30.622Z</updated>
     
@@ -320,8 +318,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—MSSQL重构</title>
-    <link href="https://payloads.cn/2020/0325/.html"/>
-    <id>https://payloads.cn/2020/0325/.html</id>
+    <link href="https://payloads.cn/2020/0325/create-customized-metasploit%E2%80%94mssql-refactoring.html"/>
+    <id>https://payloads.cn/2020/0325/create-customized-metasploit%E2%80%94mssql-refactoring.html</id>
     <published>2020-03-25T11:05:08.000Z</published>
     <updated>2021-12-31T02:55:55.583Z</updated>
     
@@ -345,8 +343,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—分析HTTP模块</title>
-    <link href="https://payloads.cn/2020/0302/.html"/>
-    <id>https://payloads.cn/2020/0302/.html</id>
+    <link href="https://payloads.cn/2020/0302/create-customized-metasploit%E2%80%94analyze-http-module.html"/>
+    <id>https://payloads.cn/2020/0302/create-customized-metasploit%E2%80%94analyze-http-module.html</id>
     <published>2020-03-02T01:11:13.000Z</published>
     <updated>2021-12-31T02:55:25.577Z</updated>
     
@@ -370,8 +368,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—体系框架</title>
-    <link href="https://payloads.cn/2020/0228/.html"/>
-    <id>https://payloads.cn/2020/0228/.html</id>
+    <link href="https://payloads.cn/2020/0228/create-customized-metasploit%E2%80%94system-framework.html"/>
+    <id>https://payloads.cn/2020/0228/create-customized-metasploit%E2%80%94system-framework.html</id>
     <published>2020-02-28T11:10:05.000Z</published>
     <updated>2021-12-31T02:55:40.932Z</updated>
     
@@ -395,8 +393,8 @@
   
   <entry>
     <title>打造定制化的Metasploit—认识Ruby</title>
-    <link href="https://payloads.cn/2020/0220/.html"/>
-    <id>https://payloads.cn/2020/0220/.html</id>
+    <link href="https://payloads.cn/2020/0220/create-customized-metasploit%E2%80%94understand-ruby.html"/>
+    <id>https://payloads.cn/2020/0220/create-customized-metasploit%E2%80%94understand-ruby.html</id>
     <published>2020-02-20T07:09:30.000Z</published>
     <updated>2021-12-31T02:55:36.102Z</updated>
     
@@ -420,8 +418,8 @@
   
   <entry>
     <title>Reverse ICMP Shell</title>
-    <link href="https://payloads.cn/2020/0212/.html"/>
-    <id>https://payloads.cn/2020/0212/.html</id>
+    <link href="https://payloads.cn/2020/0212/reverse-icmp-shell.html"/>
+    <id>https://payloads.cn/2020/0212/reverse-icmp-shell.html</id>
     <published>2020-02-12T08:54:27.000Z</published>
     <updated>2021-12-31T02:59:33.239Z</updated>
     
@@ -445,8 +443,8 @@
   
   <entry>
     <title>利用netsh进行端口转发</title>
-    <link href="https://payloads.cn/2020/0209/.html"/>
-    <id>https://payloads.cn/2020/0209/.html</id>
+    <link href="https://payloads.cn/2020/0209/port-forwarding-using-netsh.html"/>
+    <id>https://payloads.cn/2020/0209/port-forwarding-using-netsh.html</id>
     <published>2020-02-09T08:47:35.000Z</published>
     <updated>2021-12-31T02:57:23.744Z</updated>
     
@@ -470,8 +468,8 @@
   
   <entry>
     <title>利用iptables进行端口转发</title>
-    <link href="https://payloads.cn/2020/0209/.html"/>
-    <id>https://payloads.cn/2020/0209/.html</id>
+    <link href="https://payloads.cn/2020/0209/use-iptables-for-port-forwarding.html"/>
+    <id>https://payloads.cn/2020/0209/use-iptables-for-port-forwarding.html</id>
     <published>2020-02-09T08:40:18.000Z</published>
     <updated>2021-12-31T02:57:17.523Z</updated>
     
@@ -495,8 +493,8 @@
   
   <entry>
     <title>利用PDF文件获取Net-NTLM hash</title>
-    <link href="https://payloads.cn/2020/0203/.html"/>
-    <id>https://payloads.cn/2020/0203/.html</id>
+    <link href="https://payloads.cn/2020/0203/use-pdf-file-to-get-netntlm-hash.html"/>
+    <id>https://payloads.cn/2020/0203/use-pdf-file-to-get-netntlm-hash.html</id>
     <published>2020-02-03T08:54:50.000Z</published>
     <updated>2021-12-31T03:01:34.520Z</updated>
     
